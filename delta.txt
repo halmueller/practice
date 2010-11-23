@@ -1,2 +1,4 @@
-
 this is the new delta file
+added another couple lines to delta...
+...including this one
+and now added a 4th line!
