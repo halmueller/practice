@@ -1,5 +1,4 @@
 this is the new delta file
 added another couple lines to delta...
 <<this line added in new jjrDev branch>>
-...including this one
-and now added a 4th line!
+<< new update added to jjrNew branch >>
